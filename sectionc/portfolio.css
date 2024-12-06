@@ -1,0 +1,14 @@
+*{
+    background-color: aqua;
+}
+.container{
+    background-color: blueviolet;
+} 
+.container header{ 
+    background-color: blue;
+    display: flexbox;
+    text-align: center;
+}
+nav a{
+    text-spacing-trim: 2rem;
+}
